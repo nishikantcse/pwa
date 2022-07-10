@@ -38,5 +38,5 @@ function sendNotification(type) {
         icon: notifImg,
     };
     new Notification(notifTitle, options);
-    setTimeout(() => { sendNotification(type) }, time * 1000);
+    setTimeout(() => { sendNotification(type) }, time * 60000);
 }
