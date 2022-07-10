@@ -1,6 +1,6 @@
 
 if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('config/service-worker.js');
+    navigator.serviceWorker.register('service-worker.js');
 };
 
 
