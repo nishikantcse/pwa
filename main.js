@@ -32,7 +32,7 @@ function sendNotification(type) {
             time = 45;
             break;
     }
-    const notifImg = '';
+    const notifImg = 'logo.png';
     const options = {
         body: notifBody,
         icon: notifImg,

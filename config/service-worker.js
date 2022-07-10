@@ -1,6 +1,7 @@
 
 const cacheName = 'pwa-v1';
 const contentToCache = [
+    '../logo.png',
     '../main.js',
     '../index.html'
 ];
