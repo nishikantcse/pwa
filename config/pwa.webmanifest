@@ -3,6 +3,10 @@
     "short_name": "digital_care",
     "description": "Progressive Web App to take care of ourself while working on Computers for longer durations",
     "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "48x48"
+        }
     ],
     "start_url": "index.html",
     "display": "fullscreen",
