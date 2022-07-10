@@ -1,0 +1,11 @@
+{
+    "name": "Digital Wellbeing",
+    "short_name": "digital_care",
+    "description": "Progressive Web App to take care of ourself while working on Computers for longer durations",
+    "icons": [
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "theme_color": "#B12A34",
+    "background_color": "#B12A34"
+}
